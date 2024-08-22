@@ -1,4 +1,4 @@
-# App Engine: Qwik Start - Python || GSP067
+# Develop Serverless Apps with Firebase: Challenge Lab || GSP067
 
 ## Solution [here](https://youtu.be/gnRrAbUzMdc)
 
