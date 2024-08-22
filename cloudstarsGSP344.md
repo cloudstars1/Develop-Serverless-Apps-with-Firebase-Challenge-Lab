@@ -1,4 +1,4 @@
-# Develop Serverless Apps with Firebase: Challenge Lab || GSP067
+# Develop Serverless Apps with Firebase: Challenge Lab || GSP344
 
 ## Solution [here](https://youtu.be/gnRrAbUzMdc)
 
